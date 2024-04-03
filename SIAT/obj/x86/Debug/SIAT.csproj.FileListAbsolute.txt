@@ -1,0 +1,7 @@
+D:\Programming\[2022] Desktop\Project\SIAT\SIAT\bin\Debug\SIAT.exe
+D:\Programming\[2022] Desktop\Project\SIAT\SIAT\bin\Debug\SIAT.pdb
+D:\Programming\[2022] Desktop\Project\SIAT\SIAT\obj\x86\Debug\SIAT.Properties.Resources.resources
+D:\Programming\[2022] Desktop\Project\SIAT\SIAT\obj\x86\Debug\SIAT.csproj.GenerateResource.Cache
+D:\Programming\[2022] Desktop\Project\SIAT\SIAT\obj\x86\Debug\SIAT.exe
+D:\Programming\[2022] Desktop\Project\SIAT\SIAT\obj\x86\Debug\SIAT.pdb
+D:\Programming\[2022] Desktop\Project\SIAT\SIAT\obj\x86\Debug\SIAT.Form1.resources
