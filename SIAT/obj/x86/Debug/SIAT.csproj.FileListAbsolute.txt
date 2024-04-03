@@ -5,3 +5,4 @@ D:\Programming\[2022] Desktop\Project\SIAT\SIAT\obj\x86\Debug\SIAT.csproj.Genera
 D:\Programming\[2022] Desktop\Project\SIAT\SIAT\obj\x86\Debug\SIAT.exe
 D:\Programming\[2022] Desktop\Project\SIAT\SIAT\obj\x86\Debug\SIAT.pdb
 D:\Programming\[2022] Desktop\Project\SIAT\SIAT\obj\x86\Debug\SIAT.Form1.resources
+D:\Programming\[2022] Desktop\Project\SIAT\SIAT\obj\x86\Debug\SIAT.csprojResolveAssemblyReference.cache

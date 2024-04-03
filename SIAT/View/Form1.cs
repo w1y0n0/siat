@@ -108,6 +108,11 @@ namespace SIAT
             {
                 textBox2.Focus();
             }
+
+            if (!Char.IsNumber(e.KeyChar) && e.KeyChar!=8)
+            {
+                e.Handled = true;
+            }
         }
     }
 }
